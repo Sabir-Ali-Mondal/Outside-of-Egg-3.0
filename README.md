@@ -32,7 +32,7 @@
 3.  **Choose Language:** Select your preferred language for the story.
 4.  **Generate Story:** Click the prominent "✨ Generate Story" button.
 5.  **Experience the Animation:** The application will display a loading animation while the story is generated. Once ready, the animated story will appear in fullscreen.
-    *   Use the **sidebar controls** to navigate back, listen to the narration, replay the animation, or download a thumbnail.
+    *   Use the **bar controls** to navigate back, listen to the narration, replay the animation, or download a thumbnail.
 6.  **Switch Themes:** Click the 🌙/☀️ icon in the top-right corner to toggle between the Light and Dark Neon visual themes.
 
 ## 🛠️ Local Development Setup
@@ -72,11 +72,3 @@ outside-of-egg-3.0
    vite.config.ts
 ```
 
-
-
-**How to use this README:**
-
-1.  Save the content above into a file named `README.md` in the root directory of your project.
-2.  Replace `<your-repository-url>` with the actual URL if you host this project on platforms like GitHub, GitLab, etc.
-3.  If you have a `LICENSE.md` file (which is recommended), make sure it's in the root and contains the MIT License text.
-4.  If your project has specific dependencies that require `npm install` or `yarn install`, add those commands to the "Local Development Setup" section.
